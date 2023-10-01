@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N95JPL&show_icons=true&theme=radical&count_private=true&show_icons=true&text_color=ffffff&title_color=ffffff&bg_color=60,00008B,800080)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pxpe123&show_icons=true&theme=radical&count_private=true&show_icons=true&text_color=ffffff&title_color=ffffff&bg_color=60,00008B,800080)
 
 <!--
 **N95JPL/N95JPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
