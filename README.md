@@ -1,5 +1,5 @@
 <div align="center" style="font-family: Arial, sans-serif; user-select: none;">
-  <h1 style="color: #00a9bf; font-size: 2.5em; margin-bottom: 20px;">Hello! I'm Pxpe123 (Peps1co) 👋</h1>
+  <h1 style="color: #00a9bf; font-size: 2.5em; margin-bottom: 20px;">Hello! I'm Jay P. (Pxpe123) 👋</h1>
   <div style="display: block; margin-bottom: 20px;">
     <img src="https://komarev.com/ghpvc/?username=pxpe123" alt="Page Views" style="pointer-events: none; cursor: default;" />
   </div>
