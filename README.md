@@ -26,38 +26,6 @@ My work combines software, hardware, data, and visual design. I’m particularly
 - Environmental technology
 - Maintainable and expandable software architecture
 
----
-
-## Current Projects
-
-### FiveMesh
-
-A browser-based GTA V/FiveM asset viewer for inspecting `.YDR`, `.YFT`, and `.YTD` files.
-
-The platform includes a React and Three.js web viewer, a TypeScript API server, and a .NET decoding engine.
-
-### FLos — FreeLander OS
-
-A custom infotainment platform designed to replace the factory head unit in a Land Rover Freelander 2.
-
-Built with Electron, React, Vite, JavaScript, HTML, and CSS, with integration into the vehicle’s CAN bus and entertainment systems.
-
-### 3D Design
-
-I also create 3D designs and digital assets, with a focus on modelling, materials, textures, and preparing assets for real-time visualisation.
-
-This work supports my interest in game technology, automotive visualisation, and tools such as FiveMesh.
-
-### Plasticivore
-
-An award-winning STEM project exploring the use of mealworm larvae to break down non-recyclable plastic waste.
-
-I led the technical development of a Raspberry Pi monitoring system using temperature, humidity, and lighting sensors.
-
-The project achieved runner-up status in the Amazon Longitude Explorer Prize and won the IRIS Business of Science Conference Award.
-
----
-
 ## Technologies & Tools
 
 <div align="center">
