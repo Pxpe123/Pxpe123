@@ -99,5 +99,6 @@ The project achieved runner-up status in the Amazon Longitude Explorer Prize and
 
 [![GitHub](https://img.shields.io/badge/GitHub-pxpe123-181717?style=for-the-badge&logo=github)](https://github.com/pxpe123)
 ![Discord](https://img.shields.io/badge/Discord-Peps1co-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jayden%20Pope-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydenpope/)
 
 </div>
