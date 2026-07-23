@@ -1,10 +1,14 @@
+The stats cards are external Vercel services, so they can fail or be rate-limited. I removed them and replaced them with more reliable GitHub shields.
+
+I also added 3D design to your profile focus and introduction.
+
 <div align="center">
 
 # Hi, I’m Jay P. 👋
 
-### Software Developer · Embedded Systems Builder · Technical Problem Solver
+### Software Developer · Embedded Systems Builder · 3D Designer
 
-I build practical software and hardware projects across web development, vehicle technology, embedded systems, and environmental monitoring.
+I build practical software, hardware, and 3D design projects across web development, automotive technology, embedded systems, environmental monitoring, and digital asset creation.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pxpe123&style=flat-square&color=00a9bf)](https://github.com/pxpe123)
 
@@ -16,14 +20,15 @@ I build practical software and hardware projects across web development, vehicle
 
 I enjoy turning ambitious ideas into working prototypes and usable systems.
 
-My work often combines software, hardware, data, and real-world problem solving. I’m particularly interested in projects involving:
+My work combines software, hardware, data, and visual design. I’m particularly interested in:
 
 - Full-stack web applications
 - Embedded systems and Raspberry Pi development
 - Automotive technology and CAN bus data
-- 3D visualisation and graphics
+- 3D modelling and digital asset design
+- Materials, textures, and real-time visualisation
 - Environmental technology
-- System design and maintainable architecture
+- Maintainable and expandable software architecture
 
 ---
 
@@ -33,43 +38,27 @@ My work often combines software, hardware, data, and real-world problem solving.
 
 A browser-based GTA V/FiveM asset viewer for inspecting `.YDR`, `.YFT`, and `.YTD` files.
 
-The platform includes:
-
-- A React and Three.js web viewer
-- A TypeScript API server
-- A .NET decoding engine
-- Texture and material support
-- Prepared model examples
-- Future plans for YMAP, YTYP, MLO, and map viewing
-
-FiveMesh is currently being developed as a hosted application with a private source repository.
+The platform includes a React and Three.js web viewer, a TypeScript API server, and a .NET decoding engine.
 
 ### FLos — FreeLander OS
 
 A custom infotainment platform designed to replace the factory head unit in a Land Rover Freelander 2.
 
-Built with Electron, React, Vite, JavaScript, HTML, and CSS, with integration into the vehicle’s CAN bus and entertainment bus systems.
+Built with Electron, React, Vite, JavaScript, HTML, and CSS, with integration into the vehicle’s CAN bus and entertainment systems.
 
-The project explores:
+### 3D Design
 
-- Live vehicle data
-- VIN decoding
-- Radio and entertainment system data
-- Bluetooth media metadata
-- Custom touchscreen interfaces
-- CAN bus diagnostics and data capture
+I also create 3D designs and digital assets, with a focus on modelling, materials, textures, and preparing assets for real-time visualisation.
+
+This work supports my interest in game technology, automotive visualisation, and tools such as FiveMesh.
 
 ### Plasticivore
 
 An award-winning STEM project exploring the use of mealworm larvae to break down non-recyclable plastic waste.
 
-I led the technical development of a Raspberry Pi monitoring system using temperature, humidity, and lighting sensors to track conditions inside the bioreactor.
+I led the technical development of a Raspberry Pi monitoring system using temperature, humidity, and lighting sensors.
 
-The project achieved:
-
-- Runner-up in the Amazon Longitude Explorer Prize
-- £5,000 awarded to Liverpool Life Sciences UTC
-- Winner of the IRIS Business of Science Conference Award
+The project achieved runner-up status in the Amazon Longitude Explorer Prize and won the IRIS Business of Science Conference Award.
 
 ---
 
@@ -92,13 +81,13 @@ The project achieved:
 
 ---
 
-## GitHub Activity
+## GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pxpe123&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=00a9bf&icon_color=9900cc" alt="Jay's GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxpe123&layout=compact&hide_border=true&theme=tokyonight&title_color=00a9bf&icon_color=9900cc" alt="Jay's most used languages" />
+[![GitHub Followers](https://img.shields.io/github/followers/pxpe123?style=for-the-badge&logo=github&label=Followers)](https://github.com/pxpe123)
+[![GitHub Stars](https://img.shields.io/github/stars/pxpe123?style=for-the-badge&logo=github&label=Stars)](https://github.com/pxpe123)
+[![Profile Views](https://komarev.com/ghpvc/?username=pxpe123&style=for-the-badge&color=00a9bf&label=Profile+Views)](https://github.com/pxpe123)
 
 </div>
 
@@ -109,7 +98,6 @@ The project achieved:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-pxpe123-181717?style=for-the-badge&logo=github)](https://github.com/pxpe123)
-
 ![Discord](https://img.shields.io/badge/Discord-Peps1co-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
