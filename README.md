@@ -1,7 +1,3 @@
-The stats cards are external Vercel services, so they can fail or be rate-limited. I removed them and replaced them with more reliable GitHub shields.
-
-I also added 3D design to your profile focus and introduction.
-
 <div align="center">
 
 # Hi, I’m Jay P. 👋
