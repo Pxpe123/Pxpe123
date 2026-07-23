@@ -1,5 +1,3 @@
-Here’s a cleaner, more professional GitHub profile README. Put it in the `README.md` file of your profile repository: `pxpe123/pxpe123`.
-
 <div align="center">
 
 # Hi, I’m Jay P. 👋
