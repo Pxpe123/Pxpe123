@@ -5,9 +5,6 @@
 ### Software Developer · Embedded Systems Builder · 3D Designer
 
 I build practical software, hardware, and 3D design projects across web development, automotive technology, embedded systems, environmental monitoring, and digital asset creation.
-
-[![Profile Views](https://komarev.com/ghpvc/?username=pxpe123&style=flat-square&color=00a9bf)](https://github.com/pxpe123)
-
 </div>
 
 ---
